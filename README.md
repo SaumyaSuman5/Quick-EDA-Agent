@@ -1,3 +1,5 @@
+OVERVIEW
+
 This project is a lightweight Data Insight Agent built for the Google × Kaggle Agentic AI Hackathon (Freestyle Track).
 It performs Exploratory Data Analysis using natural-language questions without needing any API key or LLM.
 
